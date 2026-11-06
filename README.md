@@ -21,8 +21,8 @@ Python 3 · feedparser · google-genai · smtplib · systemd
 ## Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/news-digest-ia.git
-cd news-digest-ia
+git clone https://github.com/antoniotruji/daily-news-digest.git
+cd daily-news-digest
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -58,5 +58,5 @@ de systemd que lance el script a la hora deseada.
 
 ## Aviso
 
-El análisis de inversión es contenido educativo generado por IA, no
+El análisis de inversión es contenido educativo generado por IA y relacionado con las noticias del día, no
 asesoramiento financiero.
